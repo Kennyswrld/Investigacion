@@ -25,9 +25,6 @@ color:black;
 h1{
     color:darkgoldenrod;
 }
-br1{
-    color: black;
-}
 
 
 </style>
@@ -57,7 +54,6 @@ br1{
         Se anunció la vista previa para desarrolladores 1 el 18 de febrero de 2021 y es la última versión de Android para desarrolladores hasta la fecha.</h2>
     
 </body>
-<br1>_________________________________________________________________________________________________________________________________________________________________________________
 <body2>
     <h1>• Sistema operativo IOS •</h1>
     <h2>▶iPhone OS 1
@@ -96,8 +92,3 @@ br1{
         en la conferencia Build para desarrolladores, y lanzada el 14 de abril para desarrolladores y a lo largo de mayo y junio para el público en general.
          Todos los actuales modelos con Windows Phone 8 son actualizables gratuitamente a esta versión 8.1.</h2>
 </body3>
-
-
-
-</html>
-</head>
