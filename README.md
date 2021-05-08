@@ -25,7 +25,9 @@ color:black;
 h1{
     color:darkgoldenrod;
 }
-
+a{
+    font-size: xx-large;
+    }
 
 </style>
 
@@ -91,5 +93,9 @@ h1{
         es la última versión y definitiva de Windows Phone 8, el sistema operativo móvil de Microsoft. Fue anunciada el 2 de abril, 
         en la conferencia Build para desarrolladores, y lanzada el 14 de abril para desarrolladores y a lo largo de mayo y junio para el público en general.
          Todos los actuales modelos con Windows Phone 8 son actualizables gratuitamente a esta versión 8.1.</h2>
-    <a href="https://kennyswrld.github.io/Portada2/">←</a>
+   
 </body3>
+ <body4>
+         <a href="https://kennyswrld.github.io/Portada2/">←</a>
+    </body4>
+
