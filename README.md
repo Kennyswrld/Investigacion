@@ -5,30 +5,46 @@
 
 <style>
     body{
-color:black;
-font-size:large;
 background-image: url(fondo3.gif);
 background-size: 1920*1080;
 background-position: center;
-font-family: sans-serif;
-text-align:justify;
 background-attachment: fixed;
     }
+
+   h2{
+    color:black; 
+    font-size:large;
+    font-family: sans-serif;
+text-align:justify;
+background-color: lightgray;
+background-blend-mode:soft-light;
+
+   }
+
+    
     body2{
+
 text-align: justify;
-color: black;
+color: black; 
+
     }
     body3{
 text-align: justify;
 color:black;
     }
 h1{
-    color:darkgoldenrod;
+    background-color:lightgray;
+    color:teal;
+    text-align: center;
 }
-a{
-    font-size: xx-large;
-    }
+br1{
+    color: black;
+}
 
+a{
+font-size: xx-large;
+
+}
 </style>
 
 
@@ -56,6 +72,7 @@ a{
         Se anunció la vista previa para desarrolladores 1 el 18 de febrero de 2021 y es la última versión de Android para desarrolladores hasta la fecha.</h2>
     
 </body>
+<br1>_________________________________________________________________________________________________________________________________________________________________________________
 <body2>
     <h1>• Sistema operativo IOS •</h1>
     <h2>▶iPhone OS 1
@@ -93,9 +110,8 @@ a{
         es la última versión y definitiva de Windows Phone 8, el sistema operativo móvil de Microsoft. Fue anunciada el 2 de abril, 
         en la conferencia Build para desarrolladores, y lanzada el 14 de abril para desarrolladores y a lo largo de mayo y junio para el público en general.
          Todos los actuales modelos con Windows Phone 8 son actualizables gratuitamente a esta versión 8.1.</h2>
-   
 </body3>
- <body4>
-         <a href="https://kennyswrld.github.io/Portada2/">←</a>
-    </body4>
 
+<body4>
+    <a href="https://kennyswrld.github.io/Portada2/">←</a>
+</body4>
