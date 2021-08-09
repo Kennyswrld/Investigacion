@@ -9,6 +9,11 @@ background-image: url(fondo3.gif);
 background-size: 1920*1080;
 background-position: center;
 background-attachment: fixed;
+width: 40%
+
+
+
+
     }
 
    h2{
@@ -16,26 +21,31 @@ background-attachment: fixed;
     font-size:large;
     font-family: sans-serif;
 text-align:justify;
-background-color: lightgray;
-background-blend-mode:soft-light;
+backdrop-filter: blur(30px);
+border-radius: 5px;
+margin: 4pc
 
    }
 
     
     body2{
-
 text-align: justify;
 color: black; 
+
 
     }
     body3{
 text-align: justify;
 color:black;
+
     }
 h1{
-    background-color:lightgray;
-    color:teal;
-    text-align: center;
+    
+color:blanchedalmond;    
+text-align: center;
+backdrop-filter: blur(30px);
+border-radius: 5px;
+margin: 6pc
 }
 br1{
     color: black;
@@ -43,6 +53,8 @@ br1{
 
 a{
 font-size: xx-large;
+backdrop-filter: blur(30px);
+ border-radius: 5px;
 
 }
 </style>
@@ -72,7 +84,7 @@ font-size: xx-large;
         Se anunció la vista previa para desarrolladores 1 el 18 de febrero de 2021 y es la última versión de Android para desarrolladores hasta la fecha.</h2>
     
 </body>
-<br1>_________________________________________________________________________________________________________________________________________________________________________________
+<br1>
 <body2>
     <h1>• Sistema operativo IOS •</h1>
     <h2>▶iPhone OS 1
@@ -115,3 +127,6 @@ font-size: xx-large;
 <body4>
     <a href="https://kennyswrld.github.io/Portada2/">←</a>
 </body4>
+
+</html>
+</head>
