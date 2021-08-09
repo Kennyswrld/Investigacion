@@ -128,5 +128,3 @@ backdrop-filter: blur(30px);
     <a href="https://kennyswrld.github.io/Portada2/">←</a>
 </body4>
 
-</html>
-</head>
